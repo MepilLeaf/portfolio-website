@@ -5,6 +5,7 @@ export default function Nav() {
     <nav className="w-full flex justify-evenly items-end py-10 h-36">
       <NavButton text="Home" />
       <NavButton text="Skills" />
+      <NavButton text="Projects" />
     </nav>
   );
 }

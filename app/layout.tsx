@@ -21,6 +21,7 @@ export default function RootLayout({
         className={`${inter.className} bg-[color:var(--background-black)] text-[color:var(--off-white)]`}
       >
         <Nav />
+        {children}
       </body>
     </html>
   );
