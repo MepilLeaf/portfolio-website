@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Ubuntu } from "next/font/google";
 import "./globals.css";
 import Nav from "@/components/rootLayout/nav/Nav";
 
-const inter = Inter({ subsets: ["latin"] });
+const ubuntu = Ubuntu({ subsets: ["latin"], weight: "300" });
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${inter.className} bg-[color:var(--background-black)] text-[color:var(--off-white)]`}
+        className={`${ubuntu.className} bg-[color:var(--background-black)] text-[color:var(--off-white)]`}
       >
         <Nav />
         {children}
