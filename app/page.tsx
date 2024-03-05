@@ -1,5 +1,5 @@
 import { redirect } from "next/navigation";
 
 export default function RootPath() {
-  redirect("/home");
+  redirect("/about");
 }
