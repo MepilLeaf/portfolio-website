@@ -7,8 +7,6 @@ import { use } from "react";
 export default function NavButton({ text }: { text: string }) {
   const path: string = `/${text.toLowerCase()}`;
 
-  console.log(usePathname(), path, usePathname() === path);
-
   return (
     <Link href={path}>
       <div className="group flex flex-col justify-end items-center">
