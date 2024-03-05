@@ -23,7 +23,7 @@ export default function Footer() {
             height="100"
           />
         </a>
-        <a href="mailto:JeHenrik13@gmail.com">
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jehenrik13@gmail.com">
           <button
             className="w-40 h-20 bg-[color:var(--emerald)] text-[color:var(--background-black)] font-extrabold text-xl rounded-3xl hover:bg-[color:var(--tea-green)]"
             type="button"
