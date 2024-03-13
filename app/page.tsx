@@ -1,9 +1,5 @@
-import Image from "next/image";
+import { redirect } from "next/navigation";
 
-export default function Home() {
-  return (
-    <main className="">
-      <h1>sneuoahntoeuatnhoeuthnaoeuhtnoeuhtneohtnoeauhtneouatnhoeu</h1>
-    </main>
-  );
+export default function RootPath() {
+  redirect("/about");
 }
