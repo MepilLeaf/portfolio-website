@@ -11,6 +11,7 @@ export default function ProjectsPage() {
     description: string;
     images: string[];
     skillsUsed: string[];
+    githubLink: string;
   }
 
   const [selectedProject, setSelectedProject] =
@@ -23,6 +24,10 @@ export default function ProjectsPage() {
     setSelectedProject(project);
   }
 
+  function resetSelectedProject() {
+    setSelectedProject(null);
+  }
+
   useEffect(() => {
     if (selectedProject) {
       document.body.style.overflow = "hidden";
@@ -32,15 +37,14 @@ export default function ProjectsPage() {
   }, [selectedProject]);
 
   return (
-    <main className="flex justify-center">
+    <main className="flex justify-evenly flex-wrap mt-20 mb-32">
       {projects.map((project) => {
         return (
           <ProjectCard
             name={project.name}
-            description={project.description}
             images={project.images}
-            skillsUsed={project.skillsUsed}
             handleClick={handleClick}
+            key={project.name}
           />
         );
       })}
@@ -50,6 +54,8 @@ export default function ProjectsPage() {
           description={selectedProject.description}
           images={selectedProject.images}
           skillsUsed={selectedProject.skillsUsed}
+          githubLink={selectedProject.githubLink}
+          resetSelected={resetSelectedProject}
         />
       )}
     </main>

@@ -2,8 +2,8 @@ import Image from "next/image";
 
 export default function AboutPage() {
   return (
-    <main className="mx-36 my-10 h-screen">
-      <section className="flex flex-row justify-start items-center ">
+    <main className="mx-36 my-10">
+      <section className="flex flex-row justify-start items-center mb-32">
         <Image
           className="rounded-lg mr-20"
           src="/images/headshot.JPG"
