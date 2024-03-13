@@ -25,7 +25,7 @@ export default function Footer() {
         </a>
         <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jehenrik13@gmail.com">
           <button
-            className="w-40 h-20 bg-[color:var(--emerald)] text-[color:var(--background-black)] font-extrabold text-xl rounded-3xl hover:bg-[color:var(--tea-green)]"
+            className="w-40 h-20 bg-[color:var(--emerald)] text-[color:var(--background-black)] font-extrabold text-xl rounded-3xl hover:bg-[color:var(--tea-green)] duration-300 ease-out"
             type="button"
           >
             Email Me!

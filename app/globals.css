@@ -9,3 +9,7 @@
   --tea-green: #c1dbb3;
   --off-white: #fafdfa;
 }
+
+.card-easing {
+  transition-timing-function: cubic-bezier(0.83, -0.67, 0.86, 1.29);
+}
