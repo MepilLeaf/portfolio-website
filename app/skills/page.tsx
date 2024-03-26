@@ -1,5 +1,10 @@
 import SkillCard from "@/components/skillCard/SkillCard";
 import skills from "@/data/skills.json";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Skills",
+};
 
 export default function SkilsPage() {
   return (
@@ -11,6 +16,7 @@ export default function SkilsPage() {
             src={skill.src}
             href={skill.href}
             condensed={false}
+            key={skill.name}
           />
         );
       })}

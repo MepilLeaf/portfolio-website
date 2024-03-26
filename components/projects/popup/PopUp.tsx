@@ -22,7 +22,7 @@ export default function PopUp({
   const [tab, setTab] = useState<string>("About");
 
   return (
-    <div className="bg-[#00000050] fixed top-0 w-full h-full flex justify-center">
+    <div className="bg-[#000000b3] fixed top-0 w-full h-full flex justify-center">
       <div className="relative">
         <article className="w-[50vw] h-[100vh] overflow-y-auto border-8 border-[color:var(--emerald)] bg-[color:var(--background-black)] flex flex-col items-center py-16 px-24">
           <div className="flex justify-between w-full">
@@ -63,11 +63,12 @@ export default function PopUp({
                 {images.map((image) => {
                   return (
                     <Image
-                      className="mb-10 rounded-lg"
+                      className="mb-10 object-contain"
                       src={image}
                       alt={image.split("/").pop() ?? "image name not found"}
                       width={300}
                       height={300}
+                      key={image}
                     />
                   );
                 })}
@@ -84,6 +85,7 @@ export default function PopUp({
                       src={skillData.src}
                       href={skillData.href}
                       condensed={true}
+                      key={skillData.name}
                     />
                   );
                 })}
