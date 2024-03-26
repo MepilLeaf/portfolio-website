@@ -1,137 +1,31 @@
 [
   {
-    "name": "test-project",
-    "description": "This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description",
+    "name": "Recipes Plus",
+    "description": "Recipes Plus is a website that allows users to create and browse recipes that other users have created. There you are also able to download any recipe as an image. I created Recipes Plus using React.js for the front-end and ran an api with Express.js that was connected to a MySQL database. Through the development process, I sought regular feedback in order to ensure the design was intuitive and user-friendly. From the main page you can navigate to the create a recipe page or the browse recipes page. In the create a recipe page, you will have several text inputs that allow you to type or paste in the content of the recipe. Once you are done, you can hit the submit button and it will show a preview of the recipe. From there you can download the recipe as an image or submit it to the public recipe database and other users will be able to view your recipe. If you want to browse recipes, you can navigate there from the home page or using the nav bar. On the browse recipes page there is a search bar which will allow users to look up recipes by title and tags. I created a scoring system in the back-end that will sort results based on how revenant they are to the user's search. If you see a recipe you like you can click on it and it will show a popup with the entire recipe. You are also able to download an image of the recipe from this popup.",
     "images": [
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png"
+      "/images/projects/recipesPlus/home-page.png",
+      "/images/projects/recipesPlus/create-top.png",
+      "/images/projects/recipesPlus/create-middle-filled.png",
+      "/images/projects/recipesPlus/create-popup-top.png",
+      "/images/projects/recipesPlus/create-popup-bottom.png",
+      "/images/projects/recipesPlus/download.png",
+      "/images/projects/recipesPlus/browse-top.png",
+      "/images/projects/recipesPlus/browse-salad.png",
+      "/images/projects/recipesPlus/browse-popup-top.png",
+      "/images/projects/recipesPlus/browse-salad-popup-bottom.png"
     ],
     "skillsUsed": [
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git"
+      "React.js",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "SASS",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "Knex.js",
+      "Git"
     ],
-    "githubLink": "https://github.com/MepilLeaf/portfolio-website"
-  },
-  {
-    "name": "test-project",
-    "description": "This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description",
-    "images": [
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png"
-    ],
-    "skillsUsed": [
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git"
-    ],
-    "githubLink": "https://github.com/MepilLeaf/portfolio-website"
-  },
-  {
-    "name": "test-project",
-    "description": "This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description",
-    "images": [
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png"
-    ],
-    "skillsUsed": [
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git"
-    ],
-    "githubLink": "https://github.com/MepilLeaf/portfolio-website"
-  },
-  {
-    "name": "test-project",
-    "description": "This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description",
-    "images": [
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png"
-    ],
-    "skillsUsed": [
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git"
-    ],
-    "githubLink": "https://github.com/MepilLeaf/portfolio-website"
-  },
-  {
-    "name": "test-project",
-    "description": "This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description This is the project description",
-    "images": [
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png",
-      "/images/placeholder.png"
-    ],
-    "skillsUsed": [
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git",
-      "git"
-    ],
-    "githubLink": "https://github.com/MepilLeaf/portfolio-website"
+    "githubLink": "https://github.com/MepilLeaf/john-henriksen-capstone"
   }
 ]

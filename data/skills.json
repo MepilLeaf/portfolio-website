@@ -1,67 +1,77 @@
 [
   {
-    "name": "git",
-    "src": "/images/github-icon.svg",
-    "href": "https://github.com/MepilLeaf?tab=repositories"
+    "name": "React.js",
+    "src": "/images/skills/react-icon.svg",
+    "href": "https://react.dev/"
   },
   {
-    "name": "git",
-    "src": "/images/github-icon.svg",
-    "href": "https://github.com/MepilLeaf?tab=repositories"
+    "name": "Next.js",
+    "src": "/images/skills/next-icon.png",
+    "href": "https://nextjs.org/"
   },
   {
-    "name": "git",
-    "src": "/images/github-icon.svg",
-    "href": "https://github.com/MepilLeaf?tab=repositories"
+    "name": "JavaScript",
+    "src": "/images/skills/javascript-icon.png",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/javascript"
   },
   {
-    "name": "git",
-    "src": "/images/github-icon.svg",
-    "href": "https://github.com/MepilLeaf?tab=repositories"
+    "name": "TypeScript",
+    "src": "/images/skills/typescript-icon.png",
+    "href": "https://www.typescriptlang.org/"
   },
   {
-    "name": "git",
-    "src": "/images/github-icon.svg",
-    "href": "https://github.com/MepilLeaf?tab=repositories"
+    "name": "HTML",
+    "src": "/images/skills/html-icon.png",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/HTML"
   },
   {
-    "name": "git",
-    "src": "/images/github-icon.svg",
-    "href": "https://github.com/MepilLeaf?tab=repositories"
+    "name": "CSS",
+    "src": "/images/skills/css-icon.png",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/CSS"
   },
   {
-    "name": "git",
-    "src": "/images/github-icon.svg",
-    "href": "https://github.com/MepilLeaf?tab=repositories"
+    "name": "SASS",
+    "src": "/images/skills/sass-icon.png",
+    "href": "https://sass-lang.com/"
   },
   {
-    "name": "git",
-    "src": "/images/github-icon.svg",
-    "href": "https://github.com/MepilLeaf?tab=repositories"
+    "name": "Tailwind",
+    "src": "/images/skills/tailwind-icon.png",
+    "href": "https://tailwindcss.com/"
   },
   {
-    "name": "git",
-    "src": "/images/github-icon.svg",
-    "href": "https://github.com/MepilLeaf?tab=repositories"
+    "name": "Node.js",
+    "src": "/images/skills/node-icon.png",
+    "href": "https://nodejs.org/en"
   },
   {
-    "name": "git",
-    "src": "/images/github-icon.svg",
-    "href": "https://github.com/MepilLeaf?tab=repositories"
+    "name": "Express.js",
+    "src": "/images/skills/express-icon.png",
+    "href": "https://expressjs.com/"
   },
   {
-    "name": "git",
-    "src": "/images/github-icon.svg",
-    "href": "https://github.com/MepilLeaf?tab=repositories"
+    "name": "MySQL",
+    "src": "/images/skills/mysql-icon.png",
+    "href": "https://www.mysql.com/"
   },
   {
-    "name": "git",
-    "src": "/images/github-icon.svg",
-    "href": "https://github.com/MepilLeaf?tab=repositories"
+    "name": "Knex.js",
+    "src": "/images/skills/knex-icon.png",
+    "href": "https://knexjs.org/"
   },
   {
-    "name": "git",
+    "name": "Java",
+    "src": "/images/skills/java-icon.png",
+    "href": "https://www.java.com/en/"
+  },
+  {
+    "name": "Python",
+    "src": "/images/skills/python-icon.png",
+    "href": "https://www.python.org/"
+  },
+  {
+    "name": "Git",
     "src": "/images/github-icon.svg",
-    "href": "https://github.com/MepilLeaf?tab=repositories"
+    "href": "https://git-scm.com/"
   }
 ]
