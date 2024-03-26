@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import ProjectCard from "@/components/projects/projectCard/ProjectCard";
+import ProjectCard from "@/components/projects/displayCard/DisplayCard";
 import projects from "@/data/projects.json";
 import PopUp from "@/components/projects/popup/PopUp";
 
