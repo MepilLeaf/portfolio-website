@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function ProjectCard({
+export default function DisplayCard({
   name,
   images,
   handleClick,
