@@ -85,6 +85,7 @@ export default function PopUp({
                       src={skillData.src}
                       href={skillData.href}
                       condensed={true}
+                      key={skillData.name}
                     />
                   );
                 })}

@@ -22,7 +22,7 @@ export default function AboutPage() {
             developer. I have loved coding since I was in middle school. From
             coding with blocks to writing my first lines of JavaScript, I always
             enjoyed creating, debugging, discussing code. I completed
-            BrainStation's software engineering bootcamp and am now in the
+            BrainStation{"'"}s software engineering bootcamp and am now in the
             process of diving into the industry.
           </p>
           <div className="bg-[color:var(--emerald)] w-[80%] h-5 self-start mb-10 relative left-[-3rem]"></div>
