@@ -16,6 +16,7 @@ export default function SkilsPage() {
             src={skill.src}
             href={skill.href}
             condensed={false}
+            key={skill.name}
           />
         );
       })}
