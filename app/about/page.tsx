@@ -19,11 +19,11 @@ export default function AboutPage() {
         <div className="flex flex-col">
           <p className="mb-10 text-lg">
             Hello, I’m John! I live in Edmonds, Washington, and I am a software
-            developer. I have loved coding since I was in middle school. From
-            coding with blocks to writing my first lines of JavaScript, I always
-            enjoyed creating, debugging, discussing code. I completed
-            BrainStation{"'"}s software engineering bootcamp and am now in the
-            process of diving into the industry.
+            developer. I have loved coding from a young age. From coding with
+            blocks to writing my first lines of JavaScript, I always enjoyed
+            creating, debugging, and discussing code. I completed BrainStation
+            {"'"}s software engineering bootcamp and am now in the process of
+            diving into the industry.
           </p>
           <div className="bg-[color:var(--emerald)] w-[80%] h-5 self-start mb-10 relative left-[-3rem]"></div>
           <p className="mb-10 text-lg">
