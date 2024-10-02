@@ -14,7 +14,6 @@ export default function SkilsPage() {
           <SkillCard
             name={skill.name}
             src={skill.src}
-            href={skill.href}
             condensed={false}
             key={skill.name}
           />
