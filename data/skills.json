@@ -1,77 +1,62 @@
 [
   {
     "name": "React.js",
-    "src": "/images/skills/react-icon.svg",
-    "href": "https://react.dev/"
+    "src": "/images/skills/react-icon.svg"
   },
   {
     "name": "Next.js",
-    "src": "/images/skills/next-icon.png",
-    "href": "https://nextjs.org/"
+    "src": "/images/skills/next-icon.png"
   },
   {
     "name": "JavaScript",
-    "src": "/images/skills/javascript-icon.png",
-    "href": "https://developer.mozilla.org/en-US/docs/Web/javascript"
+    "src": "/images/skills/javascript-icon.png"
   },
   {
     "name": "TypeScript",
-    "src": "/images/skills/typescript-icon.png",
-    "href": "https://www.typescriptlang.org/"
+    "src": "/images/skills/typescript-icon.png"
   },
   {
     "name": "HTML",
-    "src": "/images/skills/html-icon.png",
-    "href": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+    "src": "/images/skills/html-icon.png"
   },
   {
     "name": "CSS",
-    "src": "/images/skills/css-icon.png",
-    "href": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+    "src": "/images/skills/css-icon.png"
   },
   {
     "name": "SASS",
-    "src": "/images/skills/sass-icon.png",
-    "href": "https://sass-lang.com/"
+    "src": "/images/skills/sass-icon.png"
   },
   {
     "name": "Tailwind",
-    "src": "/images/skills/tailwind-icon.png",
-    "href": "https://tailwindcss.com/"
+    "src": "/images/skills/tailwind-icon.png"
   },
   {
     "name": "Node.js",
-    "src": "/images/skills/node-icon.png",
-    "href": "https://nodejs.org/en"
+    "src": "/images/skills/node-icon.png"
   },
   {
     "name": "Express.js",
-    "src": "/images/skills/express-icon.png",
-    "href": "https://expressjs.com/"
+    "src": "/images/skills/express-icon.png"
   },
   {
     "name": "MySQL",
-    "src": "/images/skills/mysql-icon.png",
-    "href": "https://www.mysql.com/"
+    "src": "/images/skills/mysql-icon.png"
   },
   {
     "name": "Knex.js",
-    "src": "/images/skills/knex-icon.png",
-    "href": "https://knexjs.org/"
+    "src": "/images/skills/knex-icon.png"
   },
   {
     "name": "Java",
-    "src": "/images/skills/java-icon.png",
-    "href": "https://www.java.com/en/"
+    "src": "/images/skills/java-icon.png"
   },
   {
     "name": "Python",
-    "src": "/images/skills/python-icon.png",
-    "href": "https://www.python.org/"
+    "src": "/images/skills/python-icon.png"
   },
   {
     "name": "Git",
-    "src": "/images/github-icon.svg",
-    "href": "https://git-scm.com/"
+    "src": "/images/github-icon.svg"
   }
 ]

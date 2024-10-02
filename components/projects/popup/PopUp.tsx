@@ -83,7 +83,6 @@ export default function PopUp({
                     <SkillCard
                       name={skillData.name}
                       src={skillData.src}
-                      href={skillData.href}
                       condensed={true}
                       key={skillData.name}
                     />
